@@ -11,37 +11,7 @@ Este proyecto consiste en un simulador de caída libre desarrollado en Python. E
 - Proporciona visualización gráfica de la altura en función del tiempo.
 - Admite la configuración de diferentes parámetros, como la gravedad, la altura inicial y la velocidad inicial.
 
-## Instalación
 
-1. Clona este repositorio en tu máquina local:
-
-    ```
-    git clone https://github.com/KjemalBejarano/Proyectos.git
-    ```
-
-2. Navega hasta el directorio del proyecto:
-
-    ```
-    cd simulador-caida-libre
-    ```
-
-3. Instala las dependencias necesarias:
-
-    ```
-    pip install -r requirements.txt
-    ```
-
-## Uso
-
-1. Ejecuta el archivo principal del proyecto:
-
-    ```
-    python main.py
-    ```
-
-2. Sigue las instrucciones en la consola para seleccionar el método de simulación y proporcionar los parámetros necesarios.
-
-3. Observa la salida en la consola y la visualización gráfica de la altura en función del tiempo.
 
 ## Contribución
 
