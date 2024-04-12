@@ -1,5 +1,7 @@
 # Proyectos
-##Simulador de Caída Libre
+
+### Simulador de Caída Libre
+
 Este proyecto consiste en un simulador de caída libre desarrollado en Python. El simulador permite calcular y visualizar la altura y la velocidad de un objeto en caída libre utilizando diferentes métodos, incluyendo el método numérico de Euler y un método propio basado en las ecuaciones de movimiento.
 
 ## Características
@@ -53,8 +55,6 @@ Si deseas contribuir a este proyecto, sigue estos pasos:
 
 ## Créditos
 
-Este proyecto fue creado por [tu nombre] y está disponible bajo la licencia [tipo de licencia]. Consulta el archivo LICENSE para más detalles.
+Este proyecto fue creado por Kjemal Bejarano. Consulta el archivo LICENSE para más detalles.
 
-## Licencia
 
-Este proyecto está licenciado bajo [tipo de licencia]. Consulta el archivo LICENSE para más detalles.
