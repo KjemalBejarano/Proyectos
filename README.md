@@ -16,7 +16,7 @@ Este proyecto consiste en un simulador de caída libre desarrollado en Python. E
 1. Clona este repositorio en tu máquina local:
 
     ```
-    git clone https://github.com/tu_usuario/simulador-caida-libre.git
+    git clone https://github.com/KjemalBejarano/Proyectos.git
     ```
 
 2. Navega hasta el directorio del proyecto:
